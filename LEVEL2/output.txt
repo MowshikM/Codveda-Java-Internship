@@ -1,0 +1,4 @@
+File Processing Results
+-----------------------
+Total Lines: 4
+Total Words: 37

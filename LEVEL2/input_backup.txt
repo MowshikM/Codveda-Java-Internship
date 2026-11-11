@@ -1,0 +1,4 @@
+Java is a powerful programming language.
+Java supports object oriented programming.
+File handling is an important Java concept.
+By using the java we can build the application . java is such a wonderful language i have seen.

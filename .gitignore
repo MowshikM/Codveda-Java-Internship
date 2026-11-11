@@ -1,0 +1,4 @@
+*.class
+.env
+.vscode/
+.DS_Store
